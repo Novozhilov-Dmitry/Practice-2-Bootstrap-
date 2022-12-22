@@ -1,0 +1,55 @@
+body {
+  font-family: "Poppins", sans-serif;
+  max-width: 1440px;
+  margin: auto;
+}
+.ender {
+  display: flex;
+  justify-content: end;
+}
+.maintext {
+  color: #45525b;
+  align-items: center;
+  justify-content: center;
+}
+.mainlogoimg {
+  width: 55px;
+  height: 55px;
+}
+.mainlogotitle {
+  width: 128px;
+  height: 33px;
+}
+.arrow {
+  border: 2px solid;
+  border-color: #3a4443;
+  border-radius: 100%;
+}
+.h-90 {
+  height: 90%;
+}
+a {
+  text-decoration: 0;
+}
+.footercolor {
+  background-color: #292c32;
+}
+.text-color {
+  color: #ffffff;
+}
+.text-color-h {
+  color: #ff8a63;
+}
+.Copyright-margin {
+  margin-left: 70px;
+}
+.icons-margin {
+  margin-right: 70px;
+}
+.btn-color {
+  color: white;
+  background-color: #3a4443;
+}
+.headertext {
+  color: #444444;
+}
